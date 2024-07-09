@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35017.193
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChromaControl.Native.Corsair", "src\ChromaControl.Native.Corsair\ChromaControl.Native.Corsair.csproj", "{C21F22A2-BF26-4CA2-A5BD-9F354CFA542C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChromaControl.Native.OpenRGB", "src\ChromaControl.Native.OpenRGB\ChromaControl.Native.OpenRGB.csproj", "{5E0A0FA3-2D2F-47E6-B802-5E7989FA4D3B}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C21F22A2-BF26-4CA2-A5BD-9F354CFA542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C21F22A2-BF26-4CA2-A5BD-9F354CFA542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C21F22A2-BF26-4CA2-A5BD-9F354CFA542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C21F22A2-BF26-4CA2-A5BD-9F354CFA542C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5E0A0FA3-2D2F-47E6-B802-5E7989FA4D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E0A0FA3-2D2F-47E6-B802-5E7989FA4D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0A0FA3-2D2F-47E6-B802-5E7989FA4D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
