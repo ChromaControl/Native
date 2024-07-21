@@ -6,6 +6,13 @@
 # Chroma Control Native Components
 This repository contains native components used as a part of Chroma Control as NuGet packages. They are not meant for direct consumption.
 
+## Getting Started
 The packages are available on [NuGet](https://www.nuget.org/packages?q=ChromaControl.Native&includeComputedFrameworks=true&prerel=true&sortby=relevance) under the `ChromaControl.Native.*` namespace.
 
-For direct consumption, use the `ChromaControl.Sdk.*` packages instead available on [NuGet](https://www.nuget.org/packages?q=ChromaControl.Sdk&includeComputedFrameworks=true&prerel=true&sortby=relevance).
+For direct consumption, use the `ChromaControl.SDK.*` packages instead available on [NuGet](https://www.nuget.org/packages?q=ChromaControl.SDK&includeComputedFrameworks=true&prerel=true&sortby=relevance).
+
+## Reporting security issues and bugs
+You can follow the instructions in our [Security Policy](https://github.com/ChromaControl/Native/security/policy) to report security related issues. You can also find the full list of supported versions there as well.
+
+## Code of Conduct
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
